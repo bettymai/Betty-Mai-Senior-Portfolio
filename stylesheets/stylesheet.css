@@ -462,7 +462,7 @@ header h1 {
   font-size: 72px;
   font-weight: normal;
   line-height: 1;
-  color: #fff;
+  color: #F4A6A6;
   letter-spacing: -1px;
 }
 
@@ -751,10 +751,10 @@ footer {
 }
 
 footer a {
-  color: #666;
+  color: #F4A6A6;
 }
 footer a:hover {
-  color: #444;
+  color: #F4A6A6;
 }
 
 /* MISC */
